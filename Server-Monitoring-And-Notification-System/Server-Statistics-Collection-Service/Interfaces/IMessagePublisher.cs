@@ -2,5 +2,5 @@
 
 public interface IMessagePublisher
 {
-    
+    public Task<bool> PublishMessage();
 }
