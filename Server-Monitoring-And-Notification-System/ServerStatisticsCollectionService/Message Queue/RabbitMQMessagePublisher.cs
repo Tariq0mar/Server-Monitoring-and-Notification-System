@@ -1,6 +1,5 @@
 ﻿using RabbitMQ.Client;
 using ServerStatisticsCollectionService.Interfaces;
-using ServerStatisticsCollectionService.StatisticsCalculators;
 using System.Text;
 using System.Text.Json;
 

@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35806.99
+VisualStudioVersion = 17.13.35806.99 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerStatisticsCollectionService", "Server-Statistics-Collection-Service\ServerStatisticsCollectionService.csproj", "{6B78D91E-DBB7-49E9-8475-EF753219798D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerStatisticsCollectionService", "ServerStatisticsCollectionService\ServerStatisticsCollectionService.csproj", "{E85CE9C5-8D4A-D495-2761-7C92A1D2C5BD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{6B78D91E-DBB7-49E9-8475-EF753219798D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6B78D91E-DBB7-49E9-8475-EF753219798D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6B78D91E-DBB7-49E9-8475-EF753219798D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6B78D91E-DBB7-49E9-8475-EF753219798D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E85CE9C5-8D4A-D495-2761-7C92A1D2C5BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E85CE9C5-8D4A-D495-2761-7C92A1D2C5BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E85CE9C5-8D4A-D495-2761-7C92A1D2C5BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E85CE9C5-8D4A-D495-2761-7C92A1D2C5BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {551FED2D-F652-48F2-9439-7887DA2FAD76}
+		SolutionGuid = {81A0FE4E-CA4F-4C4D-9E96-8231C769BBE0}
 	EndGlobalSection
 EndGlobal
