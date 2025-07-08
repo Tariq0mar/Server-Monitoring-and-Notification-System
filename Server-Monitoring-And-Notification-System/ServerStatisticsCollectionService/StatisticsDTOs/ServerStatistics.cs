@@ -1,4 +1,4 @@
-﻿namespace Server_Statistics_Collection_Service.StatisticsDTOs;
+﻿namespace ServerStatisticsCollectionService.StatisticsDTOs;
 
 public class ServerStatistics
 {

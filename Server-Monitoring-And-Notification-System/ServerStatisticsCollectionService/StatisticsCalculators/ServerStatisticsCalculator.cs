@@ -1,10 +1,10 @@
-﻿using Server_Statistics_Collection_Service.Interfaces;
-using Server_Statistics_Collection_Service.StatisticsDTOs;
+﻿using ServerStatisticsCollectionService.Interfaces;
+using ServerStatisticsCollectionService.StatisticsDTOs;
 using System.Diagnostics;
 
-namespace Server_Statistics_Collection_Service.StatisticsCalculators;
+namespace ServerStatisticsCollectionService.StatisticsCalculators;
 
-public class ServerStatisticsCalculator : IServerStatisticsCalculation
+public class ServerStatisticsCalculator : IServerStatisticsCalculator
 {
     public ServerStatistics GetStatistics()
     {
